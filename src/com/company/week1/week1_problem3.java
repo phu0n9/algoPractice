@@ -1,10 +1,10 @@
-package com.company;
+package com.company.week1;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class problem3 {
+public class week1_problem3 {
     public static ArrayList<Integer> initializeArray(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Insert array input size: ");

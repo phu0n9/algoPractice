@@ -1,9 +1,9 @@
-package com.company;
+package com.company.week1;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class problem4 {
+public class week1_problem4 {
 
     public static ArrayList<Integer> exercise4OnlyArray(int n){
         ArrayList<Integer> arrayList = new ArrayList<>(List.of(n));
